@@ -1,3 +1,4 @@
+
 """
 Simple database models using SQLAlchemy for tracking tasks and history.
 """
